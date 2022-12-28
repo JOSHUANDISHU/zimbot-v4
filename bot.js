@@ -1,4 +1,4 @@
-// ⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈
+No// ⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈
 //▮ZIM BOT INC 2022 ®️ALL RIGHTS RESERVED
 //▮
 //▮FORK AND DON'T FORGET TO GIVE A STAR
@@ -34,8 +34,8 @@ global.APIKeys = {
 
 //settings
 global.owner = ['254791195553',''] //owner number +254791195553
-global.wame = ['255791195553'] 
-global.pemilik = ['255791195553'] //owner number +255791195553
+global.wame = ['254791195553'] 
+global.pemilik = ['254791195553'] //owner number +254791195553
 global.premium = ['254791195553'] //premium number +254791195553
 global.pengguna = 'exray' //username
 global.footer = 'RAY BOT INC'
